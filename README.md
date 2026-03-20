@@ -1,4 +1,4 @@
-# zabota-o-pitomtce-support
+# sirius-support
 
 
 # Поддержка приложения «Сириус»
